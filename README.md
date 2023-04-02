@@ -3,5 +3,5 @@
 - コマンドプロンプトで以下のコマンドを実行します。
 
 ~~~
-pip install -r requirements.txt
+pip install opencv-python
 ~~~
